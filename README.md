@@ -51,7 +51,6 @@ grid_plot_norm = ggplot() +
 ```
 
 Here's the resulting plot:
-[image]
 
 
 Now let's visualize a lognormal distribution.
@@ -74,8 +73,8 @@ grid_plot_lnorm = ggplot() +
 ```
 
 Here's the resulting plot:
-[image]
 
+[truncnorm](https://economicsfromthetopdown.files.wordpress.com/2020/04/truncnorm.png)
 
 
 
